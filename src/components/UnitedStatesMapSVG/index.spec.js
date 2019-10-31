@@ -1,5 +1,5 @@
 import React from 'react';
-import UnitedStatesMapSVG from './UnitedStatesMapSVG';
+import UnitedStatesMapSVG from '.';
 import { mount } from 'enzyme';
 
 describe('UnitedStatesMapSVG', () => {
