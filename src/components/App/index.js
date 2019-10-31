@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>Fifty Nifty</h1>
       <UnitedStatesMapSVG />
+      <p id="source-link">View source on <a href="https://github.com/meganesu/fifty-nifty/">GitHub</a>.</p>
     </div>
   );
 }

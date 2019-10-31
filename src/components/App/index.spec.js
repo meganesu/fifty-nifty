@@ -23,4 +23,8 @@ describe('App', () => {
     expect(component.find('h1')).toHaveLength(1);
     expect(component.find('h1').text()).toEqual('Fifty Nifty');
   });
+
+  it('renders a link to the source on GitHub', () => {
+    expect(component.find('#source-link a').text()).toEqual(expect.stringContaining('GitHub'));
+  })
 });
