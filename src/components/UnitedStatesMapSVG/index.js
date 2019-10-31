@@ -1,4 +1,5 @@
 import React from 'react';
+import './UnitedStatesMapSVG.css';
 
 const UnitedStatesMapSVG = () => (
   <svg
