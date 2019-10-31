@@ -1,24 +1,12 @@
 import React from 'react';
-import map from './us.svg';
+import UnitedStatesMapSVG from '../UnitedStatesMapSVG';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={map} alt="A map of the United States, showing which states I have visited." />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Fifty Nifty</h1>
+      <UnitedStatesMapSVG />
     </div>
   );
 }
