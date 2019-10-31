@@ -2,11 +2,14 @@
   "name": "fifty-nifty",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://meganesu.github.io/fifty-nifty/",
+  "homepage": "https://meganesu.github.io/fifty-nifty/",
   "dependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "react-test-renderer": "^16.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
