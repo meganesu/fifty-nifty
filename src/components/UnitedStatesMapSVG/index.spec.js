@@ -14,4 +14,7 @@ describe('UnitedStatesMapSVG', () => {
   it('has an accessible ARIA label', () => {
     expect(svg.prop('aria-label')).toBeDefined();
   });
+  it('renders all 50 states plus DC', () => {
+    expect(svg.find('path')).toHaveLength(51);
+  });
 });
