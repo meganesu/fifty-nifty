@@ -8,3 +8,7 @@ path {
   stroke-width:0.97063118000000004;
   fill:#f9f9f9;
 }
+
+path.visited {
+  fill: #15ff00;
+}
