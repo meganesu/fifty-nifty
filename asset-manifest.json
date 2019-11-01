@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/fifty-nifty/static/css/main.7404c0f0.chunk.css",
-    "main.js": "/fifty-nifty/static/js/main.1d7f05a7.chunk.js",
-    "main.js.map": "/fifty-nifty/static/js/main.1d7f05a7.chunk.js.map",
+    "main.css": "/fifty-nifty/static/css/main.55c4182e.chunk.css",
+    "main.js": "/fifty-nifty/static/js/main.38795250.chunk.js",
+    "main.js.map": "/fifty-nifty/static/js/main.38795250.chunk.js.map",
     "runtime-main.js": "/fifty-nifty/static/js/runtime-main.022b68d2.js",
     "runtime-main.js.map": "/fifty-nifty/static/js/runtime-main.022b68d2.js.map",
     "static/js/2.478a1dcd.chunk.js": "/fifty-nifty/static/js/2.478a1dcd.chunk.js",
     "static/js/2.478a1dcd.chunk.js.map": "/fifty-nifty/static/js/2.478a1dcd.chunk.js.map",
     "index.html": "/fifty-nifty/index.html",
-    "precache-manifest.9ef3e21294f678c25e0a302ff68044fd.js": "/fifty-nifty/precache-manifest.9ef3e21294f678c25e0a302ff68044fd.js",
+    "precache-manifest.573efcbe5d5c973d13b0bacbb9accfd2.js": "/fifty-nifty/precache-manifest.573efcbe5d5c973d13b0bacbb9accfd2.js",
     "service-worker.js": "/fifty-nifty/service-worker.js",
-    "static/css/main.7404c0f0.chunk.css.map": "/fifty-nifty/static/css/main.7404c0f0.chunk.css.map"
+    "static/css/main.55c4182e.chunk.css.map": "/fifty-nifty/static/css/main.55c4182e.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.022b68d2.js",
     "static/js/2.478a1dcd.chunk.js",
-    "static/css/main.7404c0f0.chunk.css",
-    "static/js/main.1d7f05a7.chunk.js"
+    "static/css/main.55c4182e.chunk.css",
+    "static/js/main.38795250.chunk.js"
   ]
 }
