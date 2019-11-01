@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6099ad7803f36da6ac8bb0ff81d4973d",
+    "revision": "95e2db2a3a4ffd13ca9ec78f29589598",
     "url": "/fifty-nifty/index.html"
   },
   {
-    "revision": "1d1416c027efdeae6801",
+    "revision": "4183bf77d2982457d73d",
     "url": "/fifty-nifty/static/css/main.55c4182e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fifty-nifty/static/js/2.478a1dcd.chunk.js"
   },
   {
-    "revision": "1d1416c027efdeae6801",
-    "url": "/fifty-nifty/static/js/main.38795250.chunk.js"
+    "revision": "4183bf77d2982457d73d",
+    "url": "/fifty-nifty/static/js/main.838f3518.chunk.js"
   },
   {
     "revision": "286aff1076cddf5ede70",
