@@ -48,6 +48,6 @@ export default [
   // "Virginia",
   "Washington",
   // "West Virginia",
-  // "Wisconsin",
+  "Wisconsin",
   // "Wyoming",
 ];
