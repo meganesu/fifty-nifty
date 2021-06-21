@@ -25,7 +25,7 @@ export default [
   // "Minnesota",
   // "Mississippi",
   // "Missouri",
-  // "Montana",
+  "Montana",
   // "Nebraska",
   "Nevada",
   // "New Hampshire",
@@ -49,5 +49,5 @@ export default [
   "Washington",
   // "West Virginia",
   "Wisconsin",
-  // "Wyoming",
+  "Wyoming",
 ];
