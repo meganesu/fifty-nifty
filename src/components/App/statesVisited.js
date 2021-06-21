@@ -5,7 +5,7 @@ export default [
   // "Arkansas",
   "California",
   "Colorado",
-  // "Connecticut",
+  "Connecticut",
   "Delaware",
   "District of Columbia",
   "Florida",
