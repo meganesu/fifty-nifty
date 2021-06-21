@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fifty-nifty/static/css/main.55c4182e.chunk.css",
-    "main.js": "/fifty-nifty/static/js/main.465f3d22.chunk.js",
-    "main.js.map": "/fifty-nifty/static/js/main.465f3d22.chunk.js.map",
+    "main.js": "/fifty-nifty/static/js/main.00ef0b75.chunk.js",
+    "main.js.map": "/fifty-nifty/static/js/main.00ef0b75.chunk.js.map",
     "runtime-main.js": "/fifty-nifty/static/js/runtime-main.022b68d2.js",
     "runtime-main.js.map": "/fifty-nifty/static/js/runtime-main.022b68d2.js.map",
     "static/js/2.478a1dcd.chunk.js": "/fifty-nifty/static/js/2.478a1dcd.chunk.js",
     "static/js/2.478a1dcd.chunk.js.map": "/fifty-nifty/static/js/2.478a1dcd.chunk.js.map",
     "index.html": "/fifty-nifty/index.html",
-    "precache-manifest.444f486aa9e6b2e5c320b2c8e12e02d7.js": "/fifty-nifty/precache-manifest.444f486aa9e6b2e5c320b2c8e12e02d7.js",
+    "precache-manifest.f0d13a08c9eb9e94d25c8e193ed57b3f.js": "/fifty-nifty/precache-manifest.f0d13a08c9eb9e94d25c8e193ed57b3f.js",
     "service-worker.js": "/fifty-nifty/service-worker.js",
     "static/css/main.55c4182e.chunk.css.map": "/fifty-nifty/static/css/main.55c4182e.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.022b68d2.js",
     "static/js/2.478a1dcd.chunk.js",
     "static/css/main.55c4182e.chunk.css",
-    "static/js/main.465f3d22.chunk.js"
+    "static/js/main.00ef0b75.chunk.js"
   ]
 }
