@@ -1,6 +1,6 @@
 export default [
   // "Alabama",
-  // "Alaska",
+  "Alaska",
   "Arizona",
   // "Arkansas",
   "California",
@@ -11,7 +11,7 @@ export default [
   "Florida",
   "Georgia",
   "Hawaii",
-  // "Idaho",
+  "Idaho",
   "Illinois",
   // "Indiana",
   // "Iowa",
